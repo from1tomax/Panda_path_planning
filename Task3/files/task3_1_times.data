@@ -1,0 +1,6 @@
+Time in s, path planning time excluded:
+
+{"PandaRight graps object": 1.5913803577423096, "PandaLeft graps object": 3.192335367202759, "turnover time": 1.6009550094604492}
+{"PandaRight graps object": 1.2716190814971924, "PandaLeft graps object": 5.167591333389282, "turnover time": 3.89597225189209}
+{"PandaRight graps object": 1.5412509441375732, "PandaLeft graps object": 3.6038546562194824, "turnover time": 2.062603712081909}
+{"PandaRight graps object": 1.6333608627319336, "PandaLeft graps object": 3.2379281520843506, "turnover time": 1.604567289352417}
